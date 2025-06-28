@@ -11,4 +11,4 @@
 | Kibana              | ✅ Completed   | Accessible via browser           |
 | Logstash            | ⚪ In progress | Skipped |
 | Elastalert2         | ⚪ In progress |  |
-| MISP                | ⚪ in progress | Installed|
+| MISP                | ⚪ in progress | Installed, needs integration |
