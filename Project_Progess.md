@@ -10,5 +10,5 @@
 | Elasticsearch       | ✅ Completed   | Running and stable               |
 | Kibana              | ✅ Completed   | Accessible via browser           |
 | Logstash            | ⚪ In progress | Skipped |
-| Elastalert2         | ⚪ In progress |  |
+| Elastalert2         | ⚪ In progress | Skipped |
 | MISP                | ⚪ in progress | Installed, needs integration |
