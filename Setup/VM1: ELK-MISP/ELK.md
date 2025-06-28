@@ -62,3 +62,6 @@ sudo systemctl start kibana
 ```
 Access Kibana via this link in your browser: </br>
 http://localhost:5601 : instead of localhost you can put the vm IP
+</br> 
+#### NB. in the links should replace "localhost" with the actual ip address of the elk-misp machine not the host
+
