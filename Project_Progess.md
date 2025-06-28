@@ -9,6 +9,6 @@
 | VM Setup            | ✅ Completed   | Ubuntu 22.04, 6 GB RAM          |
 | Elasticsearch       | ✅ Completed   | Running and stable               |
 | Kibana              | ✅ Completed   | Accessible via browser           |
-| Logstash            | ⚪ In progress |  |
-| Elastalert2         | ⚪ In progress | Installed, rules still pending   |
-| MISP                | ⚪ in progress |           |
+| Logstash            | ⚪ In progress | Skipped |
+| Elastalert2         | ⚪ In progress |  |
+| MISP                | ⚪ in progress | Installed|
