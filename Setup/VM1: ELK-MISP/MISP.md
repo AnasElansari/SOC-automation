@@ -12,5 +12,6 @@ Once the script finishes:
 MISP is accessible from:
 http://localhost/
 The default login cridentials are: admin@admin.test with password admin </br>
-NB. the link should replace "localhost" with the actual ip address of the elk-misp machine not the host 
-</br> Once logged in you will be asked to change password 
+Once logged in you will be asked to change password 
+</br>
+#### NB. in the link should replace "localhost" with the actual ip address of the elk-misp machine not the host 
