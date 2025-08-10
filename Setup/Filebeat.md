@@ -4,7 +4,7 @@ This document defines the standardized installation and configuration of **Fileb
 |------|----------------------------------|----------------------------------------------|
 | VM1  | ELK + MISP                       | Internal system logs            |
 | VM2  | TheHive + Cortex + Web Server    | Apache2 logs and system logs                 |
-| VM3  | Proxy + DFIR Server (Privoxy)    | Privoxy access logs and system logs 
+| VM3  | Privoxy + DFIR      | Privoxy access logs and system logs 
 ## 1. Installation (Linux VMs)
 
 Add Elastic APT Repository:
