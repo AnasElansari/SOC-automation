@@ -1,4 +1,4 @@
-# Installing an dconfigurin ELastalert
+# Installing and configurin ELastalert
 ### Prerequisites:
 ### Ensure Python 3 and pip are installed:
 ```bash
