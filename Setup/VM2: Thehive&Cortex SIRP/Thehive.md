@@ -45,3 +45,6 @@ sudo systemctl start --now thehive
 •	Open browser and go to: http://<your_VM2_IP>:9000
 •	First-time setup: you'll create an admin user, organization, and other roles.
 ### Now add the API KEYS of CORTEX AND MISP after installing them and configuring them
+### Setup Case Templates
+•	Go to Settings → Case Templates → Add Template <br>
+•	Define steps for specific incident types (e.g. Ransomware, Phishing, etc.)
